@@ -6,7 +6,7 @@ Hosts是一个没有扩展名的系统文件，可以用记事本等工具打开
 
 ### windows系列
 
-    系统盘:/Windows/System32/drivers/etc/hosts
+    文件位置  系统盘:/Windows/System32/drivers/etc/hosts
 
 1.hosts文件默认情况下只能查看不能编辑。这里给出解决方法。
 首先打开系统盘:/Windows/System32/drivers/etc/文件夹
@@ -17,7 +17,7 @@ Hosts是一个没有扩展名的系统文件，可以用记事本等工具打开
 
 ### Mac
 
-    /etc/hosts
+    文件位置  /etc/hosts
 
 1.打开Finder 在菜单中选择【前往】【前往文件夹】
   或使用快捷键Command+Shift+G
@@ -37,7 +37,7 @@ Hosts是一个没有扩展名的系统文件，可以用记事本等工具打开
 
 ### Linux
 
-    /etc/hosts
+    文件位置  /etc/hosts
 
 ```
   sudo vi /etc/hosts
